@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,700&family=Montserrat:wght@400;600&family=Prata&family=Roboto:wght@100&display=swap');
+
+
+header img{
+    width: 100px;
+}
+
+header span{
+    font-weight: 800;
+}
+
+header p{
+    background-color: #faf5ef;
+    padding: 10px;
+    font-size: 0.5em;
+    border-top: solid 1px #ffc6557d;
+}
+
+header{
+    text-align: center;
+}
+
+main{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main > h1{
+    text-align: center;
+}
+
+main img{
+    width: 100%;
+}
+
+main img + p{
+    text-align: center;
+    color: #888484;
+    margin-top: 0;
+    font-size: small;
+}
+
+nav p{
+    color: #d14d4d;
+    margin: 0;
+    font-weight: bold;
+    font-size: small;
+}
+
+nav{
+    padding-left: 10px;
+    border-left: solid 1px #ffc6557d;
+    font-size: small;
+}
+
+hr{
+    color: #13e7e7;
+}
+
+ul, dl, footer p{
+    font-size: small;
+}
+
+nav > h3{
+    margin-top: 50px;
+}
